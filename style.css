@@ -75,3 +75,13 @@ tr:hover,
 input:hover {
     cursor: pointer;
 }
+table#output {
+    width: 300px !important;
+    margin: auto;
+}
+table#output tr {
+    width: 100% !important;
+    display: flex;
+    justify-content: space-between !important;
+    margin-bottom: 10px !important;
+}
